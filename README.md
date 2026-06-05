@@ -41,5 +41,10 @@ The Fleet Management System is a web-based application developed using Spring Bo
 - CSS
 - JavaScript
 - Gradle
+## Future Scope
 
+- GPS Tracking
+- AI Route Optimization
+- Driver Performance Analytics
+- Real-Time Vehicle Monitoring
 ## Project Structure
