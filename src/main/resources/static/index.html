@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fleet Management Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Fleet Management Dashboard</h1>
+
+<button onclick="loadDrivers()">Load Drivers</button>
+<button onclick="loadVehicles()">Load Vehicles</button>
+<button onclick="loadTasks()">Load Tasks</button>
+
+<h2>Drivers</h2>
+<table border="1" id="driverTable">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Phone</th>
+        <th>License</th>
+    </tr>
+</table>
+
+<h2>Vehicles</h2>
+<table border="1" id="vehicleTable">
+    <tr>
+        <th>ID</th>
+        <th>Vehicle Number</th>
+        <th>Model</th>
+        <th>Status</th>
+    </tr>
+</table>
+
+<h2>Tasks</h2>
+<table border="1" id="taskTable">
+    <tr>
+        <th>ID</th>
+        <th>Source</th>
+        <th>Destination</th>
+        <th>Status</th>
+    </tr>
+</table>
+
+<script src="script.js"></script>
+</body>
+</html>
