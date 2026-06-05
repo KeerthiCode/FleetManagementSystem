@@ -8,40 +8,25 @@
 
 <h1>Fleet Management Dashboard</h1>
 
-<button onclick="loadDrivers()">Load Drivers</button>
-<button onclick="loadVehicles()">Load Vehicles</button>
-<button onclick="loadTasks()">Load Tasks</button>
-
 <h2>Drivers</h2>
-<table border="1" id="driverTable">
-    <tr>
-        <th>ID</th>
-        <th>Name</th>
-        <th>Phone</th>
-        <th>License</th>
-    </tr>
-</table>
+<button onclick="loadDrivers()">Load Drivers</button>
+<pre id="drivers"></pre>
 
 <h2>Vehicles</h2>
-<table border="1" id="vehicleTable">
-    <tr>
-        <th>ID</th>
-        <th>Vehicle Number</th>
-        <th>Model</th>
-        <th>Status</th>
-    </tr>
-</table>
+<button onclick="loadVehicles()">Load Vehicles</button>
+<pre id="vehicles"></pre>
 
-<h2>Tasks</h2>
-<table border="1" id="taskTable">
-    <tr>
-        <th>ID</th>
-        <th>Source</th>
-        <th>Destination</th>
-        <th>Status</th>
-    </tr>
-</table>
+<h2>Delivery Tasks</h2>
+<button onclick="loadTasks()">Load Tasks</button>
+<pre id="tasks"></pre>
+
+<footer>
+    <hr>
+    <p>Developed by Keerthi Chitri</p>
+    <p>Fleet Management System Project</p>
+</footer>
 
 <script src="script.js"></script>
+
 </body>
 </html>
