@@ -47,4 +47,14 @@ The Fleet Management System is a web-based application developed using Spring Bo
 - AI Route Optimization
 - Driver Performance Analytics
 - Real-Time Vehicle Monitoring
-## Project Structure
+## About Project
+
+Fleet Management System is a web application developed using Spring Boot and MySQL. It helps organizations manage drivers, vehicles, and delivery operations efficiently through REST APIs and a web dashboard.
+
+### Benefits
+
+- Centralized fleet management
+- Easy driver and vehicle tracking
+- Improved delivery monitoring
+- Reduced manual record keeping
+- Better operational efficiency
