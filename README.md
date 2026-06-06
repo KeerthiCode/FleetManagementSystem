@@ -78,3 +78,6 @@ src/main/resources/application.properties
 ## Conclusion
 
 Fleet Management System provides an efficient solution for managing transportation resources. It helps organizations monitor drivers, vehicles, and delivery operations through a centralized platform.
+## Screenshots
+
+Dashboard screenshots can be added here to demonstrate project functionality.
