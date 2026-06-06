@@ -87,3 +87,8 @@ Dashboard screenshots can be added here to demonstrate project functionality.
 2. Configure MySQL database
 3. Run the Spring Boot application
 4. Open http://localhost:8083
+## API Endpoints
+
+- GET /drivers
+- GET /vehicles
+- GET /tasks
