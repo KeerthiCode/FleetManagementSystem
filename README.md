@@ -81,3 +81,9 @@ Fleet Management System provides an efficient solution for managing transportati
 ## Screenshots
 
 Dashboard screenshots can be added here to demonstrate project functionality.
+## Installation
+
+1. Clone the repository
+2. Configure MySQL database
+3. Run the Spring Boot application
+4. Open http://localhost:8083
