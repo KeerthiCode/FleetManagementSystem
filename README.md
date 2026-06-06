@@ -58,3 +58,6 @@ Fleet Management System is a web application developed using Spring Boot and MyS
 - Improved delivery monitoring
 - Reduced manual record keeping
 - Better operational efficiency
+## Future Enhancement
+
+Truck load and unload status can be monitored using IoT weight sensors. The sensor data can be integrated with the Fleet Management System to track vehicle load in real time.
