@@ -92,3 +92,8 @@ Dashboard screenshots can be added here to demonstrate project functionality.
 - GET /drivers
 - GET /vehicles
 - GET /tasks
+## Benefits
+
+- Centralized fleet management
+- Improved operational efficiency
+- Easy tracking of drivers and vehicles
